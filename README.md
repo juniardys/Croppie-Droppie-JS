@@ -5,7 +5,9 @@ This is my **first** plugins. This is an Image Dropzone with Crop plugins.
 ## Requirements
 
 - **Jquery**
+
 - **Croppie**
+
 But it has been included inside
 
 ## Support
@@ -17,7 +19,9 @@ But it has been included inside
 You can see it in **demo.php**
 
 ## Attributes
+
 Set this **HTML Attributes** to container id like the **example** 
+
 | Html Attributes  | Function | default |
 | ------------- | ------------- | ------------- |
 | `data-path`  | data path url of image | `null` (**required**) |
@@ -34,5 +38,7 @@ Set this **HTML Attributes** to container id like the **example**
 | `msg-error` | error message of uploading image | `Error Uploading Image` |
 
 ## Donation
+
 If this plugins help you, you can **Donate to my Paypal account**
+
 **Paypal Account:** juniardysetio@gmail.com
