@@ -1,6 +1,6 @@
 ## Croppie Droppie JS
 
-This is my **first** plugins. This is an Image Dropzone with Crop Javacript/js plugins.
+This is my **first** plugins. This is an Image Dropzone and Cropper Javacript / js using croppie plugins.
 
 ## Requirements
 
